@@ -1,4 +1,5 @@
 # GCDH
+Source code of "Graph Convolutional Network Discrete Hashing for Cross-Modal Retrieval" accepted by TNNLS.
 ## Environment:
  - pytorch 1.7.0+
 ## Device:
